@@ -1,0 +1,39 @@
+*{
+	margin: 0 auto;
+	width: 700px;
+}
+
+header{
+	height: 200px;
+	background-color: #E3E8DE;
+}
+
+main{
+	height: 500px;
+	background-color: #5D4AA8;
+}
+
+footer{
+	height: 200px;
+	background-color: #FB0F3E;
+}
+
+form{
+	padding-top: 220px;
+}
+
+h1{
+	padding-left: 240px;
+}
+
+input{
+	width: 400px;
+	margin-top: 20px;
+	margin-left: 140px;
+}
+
+button{
+	width: 400px;
+	margin-top: 20px;
+	margin-left: 140px;
+}
